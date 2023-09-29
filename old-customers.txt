@@ -1,0 +1,28 @@
+
+Customer ID: 23
+Name: Hexxa
+Age: 0
+Mobile Number: 17
+Address: 
+Gender:
+
+Customer ID: 21
+Name: Dua
+Age: 0
+Mobile Number: 700
+Address: 
+Gender: 
+
+Customer ID: 0
+Name: 
+Age: 817179268
+Mobile Number: 491
+Address: 
+Gender: 
+
+Customer ID: 78
+Name: Gun
+Age: 78
+Mobile Number: 2353547
+Address: 31/
+Gender: Colombo
